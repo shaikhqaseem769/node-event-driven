@@ -1,0 +1,7 @@
+{
+  "name": "processor-service",
+  "main": "index.js",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
